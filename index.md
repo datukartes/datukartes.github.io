@@ -1,13 +1,9 @@
 ---
 layout: default
 ---
+# Projects
 
-[LV](/lv) | [EN](/)
-# Datukartes
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Here you can see what projects are maintained by datukartes.lv
 
 ## LVĢMC Weather Widget
 
