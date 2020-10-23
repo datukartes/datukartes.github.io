@@ -3,7 +3,7 @@ layout: default
 ---
 # Projects
 
-Here you can see what projects are maintained by datukartes.lv
+Here you can see projects maintained by datukartes.lv
 
 ## LVĢMC Weather Widget
 
