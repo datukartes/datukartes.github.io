@@ -7,7 +7,7 @@ Here you can see what projects are maintained by datukartes.lv
 
 ## LVĢMC Weather Widget
 
-LVĢMC Weather Widget source can be found @https://github.com/datukartes/weather.widget
+LVĢMC Weather Widget source can be found [@datukartes/weather.widget](https://github.com/datukartes/weather.widget)
 
 ### DEMO
 <video width="320" height="670" controls>
